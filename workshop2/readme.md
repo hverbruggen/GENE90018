@@ -12,7 +12,7 @@ Download BEAST 2.7.3 from [here](https://www.beast2.org/) and install it. You'll
 
 ## Case study
 
-Look back to last week's documentation to remind you of the case study we're using...
+Look back to [last week's documentation](../workshop1/) to remind you of the case study we're using...
 
 ## Set up a basic analysis
 

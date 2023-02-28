@@ -65,7 +65,7 @@ So what are we going to do?
 
 ## Investigate the sequence data
 
-Download the zip file with data from this GitHub repository. Here's a [direct link](data_files.zip). 
+Download the zip file with data from this GitHub repository. Here's a [direct link](https://github.com/hverbruggen/GENE90018/archive/refs/heads/main.zip). 
 
 Locate the three FASTA files in the `1_alignment` directory:
 - `28S.noaln.fas`
