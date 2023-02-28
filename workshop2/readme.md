@@ -1,4 +1,4 @@
-# GENE90018: Phylogenetics Workshop 1
+# GENE90018: Phylogenetics Workshop 2
 
 The goals of this workshop are to:
 - to get familiar with Bayesian phylogenetic inference
