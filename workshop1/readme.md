@@ -17,6 +17,8 @@ The MEGA software can be temperamental on Mac, so it's best to also install [Ali
 
 It's also recommended to have a good tree viewer like [FigTree](https://github.com/rambaut/figtree/releases).
 
+We'll also be using IQ-Tree on the command line. Instructions for that are below in the command-line analyses section. If you can't get this to work on your machine, don't panic, you can also run IQ-Tree jobs online via [this link](http://iqtree.cibiv.univie.ac.at/).
+
 Your Mac will likely complain about any software that's not downloaded from the App Store, but if you go into your System Preferences > Security & Privacy, you can overrule the warnings and use the software anyway.
 
 ## Case study
@@ -65,9 +67,9 @@ So what are we going to do?
 
 ## Investigate the sequence data
 
-Download the zip file with data from this GitHub repository. Here's a [direct link](https://github.com/hverbruggen/GENE90018/archive/refs/heads/main.zip). 
+Download the files containing sequence data from this GitHub repository.  
 
-Locate the three FASTA files in the `1_alignment` directory:
+Locate the three FASTA files in the `1_alignment` directory (see at top of this page):
 - `28S.noaln.fas`
 - `16S.noaln.fas`
 - `COI.noaln.fas`
@@ -159,4 +161,4 @@ When you're done with all that, find out how to infer a tree and calculate branc
 
 ## Upgrading to analysing whole genomes
 
-This section is optional. If there is time, a demo will be given using [OrthoFlow](https://github.com/rbturnbull/orthoflow).
+This section is optional. If there is time, a demo will be given of a genome-scale analysis using [OrthoFlow](https://github.com/rbturnbull/orthoflow), a workflow that takes care of nearly all intermediate steps automatically.
